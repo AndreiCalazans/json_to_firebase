@@ -12,6 +12,7 @@ yarn or npm install
 
 **Add .env values**
 See .env values for the configs which you can find in the Firebase console.
+Copy the .env_placeholder to a .env with the correct values.
 
 **Add you json content inside the data.json file**
 
